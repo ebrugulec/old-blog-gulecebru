@@ -1,0 +1,22 @@
+---
+layout: post
+title: Bir Hastane Meselesi
+date:   2018-04-19 20:00:19
+excerpt: Mutlaka hepimiz günün birinde bir devlet hastanesine gitmişizdir. Ben çocukluğumdan beri oralarda çok önemli şeyler gözlemledim.
+modified: 2018-04-21
+comments: true
+---
+
+Mutlaka hepimiz günün birinde bir devlet hastanesine gitmişizdir. Ben çocukluğumdan beri oralarda çok önemli şeyler gözlemledim.
+
+Hastaneye her gittiğimde benim için eziyet olan bir bekleme süreci başlıyor. Önce hasta kabulden sıra alınıyor. Sabahın köründe gitseniz bile sizden daha erken gelenler mutlaka oluyor. Ve sıra alıp geçiyoruz doktorun kapısının önüne. Ki 08:00'da sıra aldıysanız yaklaşık bir saat doktoru bekliyorsunuz. Çünkü onun mesaisi 09:00'da başlıyor. Bir de devletlumuz yaklaşık yarım saat geç geliyor. Ben hiç erken gelen doktora rastlamadım mesela. Erken gelse bile hasta kabul etmeyip çay fasıllarını hallediyorlar. Neyse efendim doktor geldiğine göre artık hastaları kabul etmeye başlayabilir. Sıranızın durumuna göre dakikalardan başlayarak saatlerce bekleyebilirsiniz rahatsız bir hastane koltuğunda. Sonra eğer şanslı iseniz herhangi bir hastane çalışanı tarafından azarlanmadan doktora ulaşabilirsiniz. Artık zafer sizin… evet evet oradasınız saatlerinizin emeğini aldınız ve o muhteşem an geldi işte değil mi? Bir hışım ile odaya girersiniz. Ve eğer yine şanslı iseniz işine özen gösteren biri derdinizi sorar, eski rahatsızlıklarınızı ve alıdğınız ilaçları kontrol eder. Ciddi anlamda sizinle ilgilenir. Ve siz de lan acaba hangi iyiliğimin karşılığında bu doktora denk geldim acaba bunu kesin kaynımlara da anlatmalıyım, onlar da gelmeliler diye düşüncelere dalar ve mutlu bir şekilde adeta süzülerek doktorun odasından çıkarsınız.
+
+Peki ya o kadar şanslı değilseniz ve hastanenin diğer çalışanlarından bir takım yanlış cümleler, sesini yükseltmeler hatta birbirinin üzerine yürümelere maruz kaldıysanız ya da tanık olduysanız. Ve aksilik bu ya gittiğiniz doktor da hayvan çıktı rıza baba. Odaya giriyorsunuz yüzünüze bile bakmıyor, ağızında bir şeyler geveliyor ama katiyen anlaşılmıyor. Tekrar sorduğunda sesi yükselip bir takım hayvansal davranışlarda bulunuyor. Hadi siz cevap verebilirsiniz, hakkınızı arayabilirsiniz peki ya köyden yırtık ayakkabası ile gelmiş insanlar için bunun ne kadar kötü bir durum olduğunu düşünsenize. Benim anneannem köylerindeki sağlık ocağındaki doktor çalışıyor yapamaz diye ona evindeki kendi yaptığı yoğurttan götüren bir kadın. Şimdi siz bu insanlara nasıl saygısız davranır ve nasıl sözlerini dinlemezsiniz. Evet çoğu şeyi bilmiyorlar nasıl sıra alınacağını, tahlilin nereye götürüleceğini ya da en kötüsü rahatsızlar ve rahatsızlıkları devam ettiği sürece köydeki işleri aksayacak diye biran önce iyileşmek isteklerini nasıl görmezden gelirsiniz. Dayanamıyorum böyle durumlarla karşılaşınca. Ve ben kendimi bildim bileli bu değişmiyor. Ne bekleme merasimi değişiyor(internetten randevu aldığımda bile bir buçuk saat randevu saati geçtikten sonra muayene olabilmiştim. O şekilde de bekliyorum yani.) ne de insanların bu tepkileri. Burada kimseyi suçlayıp bok atmaya çalışmıyorum. Ama gözünüzü seveyim kocaman bir yanlış var ortada. Biri de desin ki lan biz ne yapıyoruz.
+
+Ben hastahanelerde kavga edip tekme tokat birbirine gireni de gördüm doktora rüşvet teklif edeni de. Ve daha çok gerilen sinirlenen, öfkelenen insanlar vardı. Ki nasıl olmasın değil mi? Canın yanıyor ve biri sana diyor ki şu formu bilmem nereye götürün sonra sarı alana gidip o formu verip geberin. Hadi sizin canınız eyvallah peki ya canınızdan kıymetli evladınız acı çekerken. İşler bence o zaman çığırından çıkıyor.
+
+Garip yerler gerçekten hastaneler. Özellikle yoğun bakım kısımları. Bir arkadaşımın annesi kanser idi vakti zamanında. Ve son aşamasıydı. Ben de ziyaretine gidip bir süre kalmıştım. Oradaki zaman tarif edilemez. Orada bütün her şey anlamını yitiriyordu sanki. Geriye bir tek hasta için; yaşama tutunmak, hasta yakını için o gözünün nurunun nefes aldığını duymak yeterli oluyordu. Ne garip yerler değil mi? Hayatta olduğunu buram buram hissettiğin, ben bu hayatta ne yapıyorum neyi dert ediyorum dediğimiz ama oradan çıkınca kaynanamın görümcesi ne yapmış derdine düştüğümüz enteresan yerler.
+
+Ben de nereden nereye gelmişim anlatırken. Oysaki hastanelerde beklemenin ne kadar yanlış olduğundan bahsedecek ve bu sistemi düzeltmemiz gerek diye yazıyı bitirecektim. Ama bazen beklemek bile anlamını yitiriyor.
+
+Sevgiler.
