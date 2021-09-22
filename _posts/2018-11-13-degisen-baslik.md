@@ -68,6 +68,6 @@ bunları şimdiki zamana taşıdım. Halen üzerinde çalışıyorum. Hiçbir za
 Ancak şimdi mecburen sıfırdan başlamak durumundayım. Ve nedense bu halimden memnunum. Kaybetmek belki de kaybetmek değildir kim bilir.
 
 Son olarak yaptığım hataları, yanlışları bir kenara bırakıp, bunlardan ders alarak ve de son kez bunları yaptığım için kendime 
-"ay götüm Ebru ya" diyerek bu postu bitiriyorum.
+"aman Ebru yaa" diyerek bu postu bitiriyorum.
 
 Sevgiler.
