@@ -8,7 +8,7 @@ comments: true
 img: gitmesenize5.jpg
 ---
 
-Bir önceki [yazımda](http://ebrugulec.com/merhaba-yabanci) okuldaki erasmus öğrencileri ile ingilizce serüvenimi anlatmıştım. Bu yazıda ise macera kaldığı yerden eksik verse de devam ediyor.
+Bir önceki [yazımda](http://gulecebru.com/merhaba-yabanci) okuldaki erasmus öğrencileri ile ingilizce serüvenimi anlatmıştım. Bu yazıda ise macera kaldığı yerden eksik verse de devam ediyor.
 
 İki aylığına staj yapmak için tee Romanyadan kalkıp gelen öğrenciler ile vedalaştık.
 

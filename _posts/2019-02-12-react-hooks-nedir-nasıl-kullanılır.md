@@ -72,7 +72,7 @@ Bu component da useEffect de dikkat edilmesi gereken nokta subreddit ve setPosts
 
 **2) Örnek Proje**
 
-Teorik kısımdan bahsettiğimize göre artık Hooks’u aktif bir projede kullanıp öğrendiklerimizi pekiştirelim. Projede kısaca bahsedecek olursam; verilen props değerlerine göre parola oluşturuyoruz ve bu parolanın güçlü olup olmadığını kontrol ediyoruz. Deploy edilmiş haline [şuradan](http://ebrugulec.com/react-password-generator/) ulaşabilirsiniz. İlk etapta fonksiyonları hooks kullanmadan yazmıştım. Component’ın o haline [şuradan](https://github.com/ebrugulec/react-password-generator/blob/c9f6e2d15040aefcb527baa3021e50019b731452/src/components/PasswordGenerator.js) ulaşabilirsiniz. Şimdi aynı işlemleri hooks kullanarak tekrardan yazalım.
+Teorik kısımdan bahsettiğimize göre artık Hooks’u aktif bir projede kullanıp öğrendiklerimizi pekiştirelim. Projede kısaca bahsedecek olursam; verilen props değerlerine göre parola oluşturuyoruz ve bu parolanın güçlü olup olmadığını kontrol ediyoruz. Deploy edilmiş haline [şuradan](http://gulecebru.com/react-password-generator/) ulaşabilirsiniz. İlk etapta fonksiyonları hooks kullanmadan yazmıştım. Component’ın o haline [şuradan](https://github.com/ebrugulec/react-password-generator/blob/c9f6e2d15040aefcb527baa3021e50019b731452/src/components/PasswordGenerator.js) ulaşabilirsiniz. Şimdi aynı işlemleri hooks kullanarak tekrardan yazalım.
 
 **npm install react@16.8.1**
 **npm install react-dom@16.8.1**

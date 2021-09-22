@@ -140,7 +140,7 @@ Son adım olarak artık deploy alabiliriz. \o/
 
 **npm run deploy**
 
-Şimdi github’da projenizin setting ayarlarından github-pages ayarına bakarsanız component’ın oraya deploy edilmiş halini bulabilirsiniz. Benimki de [şurada](http://ebrugulec.com/react-rate-component/).
+Şimdi github’da projenizin setting ayarlarından github-pages ayarına bakarsanız component’ın oraya deploy edilmiş halini bulabilirsiniz. Benimki de [şurada](http://gulecebru.com/react-rate-component/).
 
 Component da herhangi bir değişiklikte paylaşma ve deploy yapma işini tek bir komutta toplamak için;
 

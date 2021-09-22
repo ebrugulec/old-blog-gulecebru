@@ -163,7 +163,7 @@ komutunu kullanabiliriz.
 
 Buraya kadar geldiysen tebrikler artık çok basitte olsa bir todo app'in var. :tada: :tada:
 Style kısmını sana bırakıyorum. O yaratıcı ruhun ile neler yapabileceğini görmek isterim :sweat_smile:
-Bu arada uygulamanın çalışır halini [şu adresten](http://nameless-stream-59526.herokuapp.com/) görebilirsin. Github reposu da [şurada](http://github.com/ebrugulec/Todo-App). Herhangi bir problem ile karşılaşırsan ya da fikirlerini belirtmek istersen bana sosyal medyadan veyahut *“ebru[at]ebrugulec.com”* adresinde ulaşabileceğini sakın unutma. Kapanışı da yine postun yazılma amacına uygun olarak Ebruca yapıyorum :dizzy:
+Bu arada uygulamanın çalışır halini [şu adresten](http://nameless-stream-59526.herokuapp.com/) görebilirsin. Github reposu da [şurada](http://github.com/ebrugulec/Todo-App). Herhangi bir problem ile karşılaşırsan ya da fikirlerini belirtmek istersen bana sosyal medyadan veyahut *“ebru[at]gulecebru.com”* adresinde ulaşabileceğini sakın unutma. Kapanışı da yine postun yazılma amacına uygun olarak Ebruca yapıyorum :dizzy:
 
 Turgut Uyar'ın da dediği gibi;
 
